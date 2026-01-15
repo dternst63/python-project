@@ -1,7 +1,4 @@
 Hardening Probe — Linux Security Snapshot & Change Analysis
-A lightweight, read-only Linux security probe designed for virtual machines
-and cloud instances such as AWS EC2.
-
 ===============
 
 A lightweight, read-only Linux system hardening probe that captures
